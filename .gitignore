@@ -1,0 +1,11 @@
+/Library/
+/Temp/
+/obj/
+/Logs/
+/UserSettings/
+/Assets/Brackeys/
+/Assets/StarterAssets/
+/Assets/DungeonModularPack/
+.vs/
+*.suo
+*.user
